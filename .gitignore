@@ -1,0 +1,9 @@
+# Dossiers à ignorer
+venv/
+data/
+__pycache__/
+.env
+
+# Fichiers à ignorer
+*.db
+.DS_Store
