@@ -240,10 +240,16 @@ olist-data-reliability-project/
 │
 ├── docs/
 │   ├── images/
+│   ├── analytical_model_notes_final.md
+│   ├── analytical_model_summary_final.md
+│   ├── business_kpi_notes.md
+│   ├── business_kpi_summary.md
+│   ├── cleaning_transformations_notes.md
+│   ├── cleaning_transformations_synthese.md
 │   ├── data_profiling_notes.md
 │   ├── data_profiling_summary.md
-│   ├── business_kpis_notes.md
-│   └── business_kpis_summary.md
+│   ├── data_quality_note.md
+│   └── data_quality_synthese_note.md
 │
 ├── powerbi/
 │   └── olist_data_analysis.pbix
@@ -256,7 +262,7 @@ olist-data-reliability-project/
 │   ├── 02_data_quality.sql
 │   ├── 03_cleaning_transformations.sql
 │   ├── 04_analytical_model.sql
-│   └── 05_business_kpis.sql
+│   └── 05_business_kpi.sql
 │
 ├── .gitignore
 └── README.md
